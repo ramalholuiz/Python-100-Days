@@ -1,0 +1,21 @@
+Internal Message System (Private Message System)
+
+1 Login
+	1.1 Send Message
+	1.2 View Unread Messages
+		1.2.1 Read Message
+		1.2.2 Mark as Read
+		1.2.3 Return to Previous Menu
+	1.3 View All Messages
+		1.3.1 Read Message
+		1.3.2 Delete Message
+		1.3.3 Return to Previous Menu
+	1.4 Clear All Messages
+	1.5 Logout
+2 Register
+	2.1 Fill Info and Register
+	2.2 Return to Previous Menu
+3 Exit
+
+User (Username, Password, Last Login Time)
+Message (ID, Sender, Receiver, Title, Content, Send Time, Is Read, Is Deleted)
